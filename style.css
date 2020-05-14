@@ -1,0 +1,66 @@
+body {
+    font-family: Roboto;
+    font-weight: 600 !important;
+    color: white;
+}
+
+h1 {
+    font-family: Roboto;
+    color: #111;
+    font-weight: 600 !important;
+    margin: 0 !important;
+    text-align: center;
+}
+
+a {
+    color: white !important;
+}
+
+.slogan {
+    background-image: url("static/guy-laptop.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 70vh;
+}
+
+.fas {
+    padding-left: 20px;
+}
+
+.project_information {
+    background-image: url("static/cosmetic-texture-0002.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 70vh;
+}
+
+.project_information li {
+    font-size: large;
+}
+
+.business_model {
+    background-image: url("static/business_model.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 70vh;
+
+}
+
+.team_members {
+    background-image: url("static/banner-team-collage-2.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 70vh;
+}
+
+.signs li {
+    display: inline !important;
+}
